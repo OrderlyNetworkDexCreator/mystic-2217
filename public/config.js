@@ -29,7 +29,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@mpucrypto",
-  "VITE_SEO_THEME_COLOR": "#be72da",
+  "VITE_SEO_THEME_COLOR": "#212121",
   "VITE_SEO_KEYWORDS": "dex,crypto,perps,mystic,trade,blockchain,bitcoin",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
