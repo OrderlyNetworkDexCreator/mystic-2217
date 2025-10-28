@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade perpetuals with another mysterious trader in the world",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Swap,Trading,Portfolio,Markets,Leaderboard,Rewards,Vaults",
+  "VITE_ENABLED_MENUS": "Markets,Trading,Swap,Portfolio,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/plancdao",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex,crypto,perps,mystic,trade,blockchain,bitcoin",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
